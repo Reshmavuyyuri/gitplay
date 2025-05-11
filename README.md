@@ -1,2 +1,2 @@
 # gitplay
-Playing with git-app
+Playing with git-app (first conflict)
