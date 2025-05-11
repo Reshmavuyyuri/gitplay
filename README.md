@@ -1,2 +1,2 @@
 # gitplay
-Playing with git-app (second conflict)
+Playing with git-app (first conflict) (second conflict) 
